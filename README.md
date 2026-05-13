@@ -1,19 +1,19 @@
 # AI Powered Automated Claims Processing (ClaimTrackr)
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?size=28&duration=4000&color=00F7FF&center=true&vCenter=true&width=900&lines=AI+Powered+Automated+Claims+Processing;ClaimTrackr+🚀;Fast+%7C+Smart+%7C+Secure+Insurance+Automation;Built+with+Flask+%2B+OpenAI+%2B+LangChain" />
+  <img src="https://readme-typing-svg.herokuapp.com?size=28&duration=4000&color=00C2FF&center=true&vCenter=true&width=900&lines=Insurance+Claim+Tracker;AI+Powered+Claim+Automation+System;Fast+%7C+Secure+%7C+Smart+Processing;Built+with+Flask+%2B+OpenAI+%2B+LangChain" />
 </p>
 
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f2027,100:2c5364&height=200&section=header&text=ClaimTrackr&fontSize=50&fontColor=ffffff&animation=fadeIn" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:141e30,100:243b55&height=200&section=header&text=Insurance%20Claim%20Tracker&fontSize=40&fontColor=ffffff&animation=fadeIn" />
 </p>
 
 <p align="center">
-  <b>AI Powered Automated Claims Processing System</b><br>
-  Streamlining Insurance Claims using AI, NLP & Automation
+  <b>AI Powered Insurance Claim Automation System</b><br>
+  Simplifying Claim Verification, Fraud Detection & Approval using AI
 </p>
 
 <p align="center">
-  <img src="https://img.shields.io/badge/Flask-Framework-blue?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/Flask-Web%20App-blue?style=for-the-badge" />
   <img src="https://img.shields.io/badge/OpenAI-GPT%203.5-green?style=for-the-badge" />
   <img src="https://img.shields.io/badge/LangChain-AI%20Workflow-purple?style=for-the-badge" />
   <img src="https://img.shields.io/badge/FAISS-Vector%20Search-orange?style=for-the-badge" />
@@ -22,7 +22,7 @@
 ---
 
 <p align="center">
-  <img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="500"/>
+  <img src="https://media.giphy.com/media/3o7btPCcdNniyf0ArS/giphy.gif" width="450"/>
 </p>
 
 ---

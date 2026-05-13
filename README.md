@@ -51,9 +51,9 @@ Leveraging the power of artificial intelligence and machine learning, ClaimTrack
 
 ## Key Inputs
 For this particular project, we would need the below key inputs:
-•	Medical Insurance Company’s handbook & necessary documents
-•	Previous Claim details
-•	Claimant (Policy Holder) details – Personal, Medical records, and bills (if any)
+- Medical Insurance Company’s handbook & necessary documents
+- Previous Claim details
+- Claimant (Policy Holder) details – Personal, Medical records, and bills (if any)
 
 ## Architecture
   

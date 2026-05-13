@@ -7,14 +7,14 @@ However, this task is often hindered by complexity and vast amounts of data, mak
 
 ## Context
 Leveraging the power of machine learning, natural language & Gen AI, this tool automates the traditionally manual insurance claim processing procedure. 
-•	Implementation of AI and Generative AI will enhance data analysis and predictive capabilities
-•	AI will provide deeper insights, improve accuracy, and streamline reporting processes
-•	Predictive features will enable proactive decision-making based on anticipated impact fluctuations.
+- Implementation of AI and Generative AI will enhance data analysis and predictive capabilities
+- AI will provide deeper insights, improve accuracy, and streamline reporting processes
+- Predictive features will enable proactive decision-making based on anticipated impact fluctuations.
 
 ## Objectives
 Develop a chatbot using AI to assist the process of claim processing, and approval.
-•	Real-time Support: Offer an executive summary of the claims, and also provide whether the claims are valid or not.
-•	Educational Resource: Share knowledge on membership handbooks
+- 	Real-time Support: Offer an executive summary of the claims, and also provide whether the claims are valid or not.
+- 	Educational Resource: Share knowledge on membership handbooks
 
 ![image](https://github.com/user-attachments/assets/b480145b-851d-44c4-84a3-b106b7136596)
 

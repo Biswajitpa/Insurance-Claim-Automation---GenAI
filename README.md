@@ -8,8 +8,7 @@
 </p>
 
 <p align="center">
-  <b>AI Powered Insurance Claim Automation System</b><br>
-  Simplifying Claim Verification, Fraud Detection & Approval using AI
+  <img src="https://readme-typing-svg.herokuapp.com?size=20&duration=3500&color=00F5FF&center=true&vCenter=true&width=900&lines=AI+Powered+Insurance+Claim+Automation+System;Simplifying+Claim+Verification+%7C+Fraud+Detection+%7C+Approval;Using+Artificial+Intelligence+%2C+NLP+%26+Automation" />
 </p>
 
 <p align="center">
